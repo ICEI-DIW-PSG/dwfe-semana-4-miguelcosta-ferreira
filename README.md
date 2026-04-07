@@ -9,10 +9,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Miguel Ferreira da Costa
+- Matricula: 1657770
+- Proposta de projeto escolhida: Site de viagens
+- Breve descrição sobre seu projeto: Um site feito para que o usuário possa escolher com imagens e etc, o local de viagem.
 
 
 ## Print do(s) wireframe(s) criado
@@ -25,3 +25,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)

@@ -1,3 +1,88 @@
-body {
-    background-color: aquamarine;
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+.header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Hero */
+.hero {
+    background: url("https://picsum.photos/id/1005/1200/400") no-repeat center;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+/* Busca */
+.busca form {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+/* Destinos */
+.destinos {
+    padding: 20px;
+}
+
+.destinos .cards {
+    display: flex;
+    gap: 20px;
+}
+
+/* Combinação de seletores */
+.destinos .card img {
+    width: 100%;
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+/* Sobre */
+.sobre {
+    padding: 20px;
+}
+
+/* Newsletter */
+.newsletter form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+}
+
+/* Footer */
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Position exemplo */
+.card {
+    position: relative;
 }
